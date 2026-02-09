@@ -1,5 +1,9 @@
 SGE-Core: The Sovereign Gateway Extension (v1.0)
 
+Status: PATENT PENDING (UK Application No. GB2602979.3)
+Filing Date: 09 February 2026
+Org: @safe-haven
+
 Copyright © 2026 Safe Haven Foundation. All Rights Reserved.
 
 Abolishing Stored Credentials through Web-Native Key Precipitation
